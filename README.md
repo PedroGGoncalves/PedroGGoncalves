@@ -1,8 +1,8 @@
 ## Olá, Seja Bem-vindo ao meu perfil Github!
 ## Eu sou o Pedro Gonçalves
 
-- Eu sou um desenvolvedor iniciante
-- 
+- Eu sou um dev iniciante
+- Finalizando a graduação na Unesp
 <!--
 **PedroGGoncalves/PedroGGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
