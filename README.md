@@ -22,8 +22,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGGoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
-![Alt Text](https://tenor.com/view/hinata-shoyo-anime-haikyuu-gif-25121010)
 
+
+![hinata-shoyo-anime](https://user-images.githubusercontent.com/85896745/167982121-1449ec13-9fb6-4bcd-80ea-c5716ee63a40.gif)
 
 <!--
 **PedroGGoncalves/PedroGGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
