@@ -3,6 +3,9 @@
 
 - Eu sou um dev iniciante
 - Finalizando a graduação na Unesp
+- Sou do Brasil, e moro no interior de SP
+
+###Tecnologias e Ferramentas
 <!--
 **PedroGGoncalves/PedroGGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
