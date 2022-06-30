@@ -22,7 +22,7 @@
 </div>
 
 
-![hinata-shoyo-anime](https://user-images.githubusercontent.com/85896745/167982121-1449ec13-9fb6-4bcd-80ea-c5716ee63a40.gif)
+![hinata-shoyo-anime](https://user-images.githubusercontent.com/85896745/176771396-e2704705-d157-495c-9ab4-406cedf5495f.gif)
 
 <!--
 **PedroGGoncalves/PedroGGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
