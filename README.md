@@ -15,7 +15,9 @@ ____________
 
 ### Contatos
 
-<a href = "mailto:pedro.g.goncalves82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Email: pedro.g.goncalves82@gmail.com
+Email institucional> pedro.g.goncalves@unesp.br
+
 <a href="https://www.linkedin.com/in/pedro-gon%C3%A7alves-9787181a0/
 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
