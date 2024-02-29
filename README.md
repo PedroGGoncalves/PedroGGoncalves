@@ -1,13 +1,15 @@
 ## Olá, Seja Bem-vindo ao meu perfil Github!
 ## Meu nome é Pedro
 
-Estou finalizando a graduação em Ciências da Computação na Unesp (Universidade Estadual Paulista "Júlio de Mesquita Filho") em Rio Claro - SP. Tudo que aprendi, relacionado com programação, foi no período da graduação para frente, momento em que me identifiquei com a área.
+Formado em Bacharelado em Ciências da Computação na Unesp (Universidade Estadual Paulista "Júlio de Mesquita Filho") em Rio Claro - SP. Tudo que aprendi, relacionado com programação, foi no período da graduação para frente, momento em que me identifiquei com a área.
 
 Estou em busca, de crescer a cada dia mais na programação, testar e evoluir meus conhecimentos adquiridos até o momento.
 
 ____________
 
-### - Estagiário em P&D de Software na Alliage Technology
+### - Estagiário em P&D de Software na Alliage Technology (2023)
+
+### - Desenvolvedor de Software Jr na Alliage Technology (2023 - Atual)
 ____________
 ### Tecnologias e Ferramentas que uso ou já utilizei
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
