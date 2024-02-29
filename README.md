@@ -1,7 +1,9 @@
 ## Olá, Seja Bem-vindo ao meu perfil Github!
 ## Meu nome é Pedro
 
-Formado em Bacharelado em Ciências da Computação na Unesp (Universidade Estadual Paulista "Júlio de Mesquita Filho") em Rio Claro - SP. Tudo que aprendi, relacionado com programação, foi no período da graduação para frente, momento em que me identifiquei com a área.
+Formado em Bacharelado em Ciências da Computação na Unesp (Universidade Estadual Paulista "Júlio de Mesquita Filho") em Rio Claro - SP. 
+
+Tudo que aprendi, relacionado com programação, foi no período da graduação para frente, momento em que me identifiquei com a área.
 
 Estou em busca, de crescer a cada dia mais na programação, testar e evoluir meus conhecimentos adquiridos até o momento.
 
